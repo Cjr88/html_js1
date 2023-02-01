@@ -27,33 +27,11 @@
     button:hover{
         background-color: rgb(51, 79, 51);
     }
-    .succes-message{
+    .mensagem-sucesso{
         color: #fff;
         text-align: center;
         padding: 16px;
         background-color: rgb(24, 56, 24);
         display: none;
     }
-    .error-message{
-        padding: 10 px;
-        background-color: red;
-        color: #fff;
-        margin-bottom: 6px;
-        font-size: 16px;
-        display: none;
-    }
-    input.error{
-        color: red;
-        border-color: red;
-        outline-color: red;
-    }
-    .msg-erro{
-        background-color: red;
-        color: #fff;
-        display: none;
-    }
-    .msg-acerto{
-        background-color: green;
-        color: #fff;
-        display: none;
-    }
+    
